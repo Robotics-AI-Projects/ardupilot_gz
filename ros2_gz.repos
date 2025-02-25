@@ -1,16 +1,16 @@
 repositories:
   ardupilot:
     type: git
-    url: https://github.com/ArduPilot/ardupilot.git
-    version: master
+    url: https://github.com/Robotics-AI-Projects/ardupilot.git
+    version: Plane-4.5.7
   ardupilot_gazebo:
     type: git
-    url: https://github.com/ArduPilot/ardupilot_gazebo.git
+    url: https://github.com/Robotics-AI-Projects/ardupilot_gazebo.git
     version: ros2
   ardupilot_gz:
     type: git
-    url: https://github.com/ArduPilot/ardupilot_gz.git
-    version: main
+    url: https://github.com/Robotics-AI-Projects/ardupilot_gz.git
+    version: tvbs-sim
   ardupilot_sitl_models:
     type: git
     url: https://github.com/ArduPilot/SITL_Models.git
