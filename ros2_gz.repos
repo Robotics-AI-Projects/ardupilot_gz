@@ -3,18 +3,22 @@ repositories:
     type: git
     url: https://github.com/Robotics-AI-Projects/ardupilot.git
     version: Plane-4.5.7
+    depth: 1 
   ardupilot_gazebo:
     type: git
     url: https://github.com/Robotics-AI-Projects/ardupilot_gazebo.git
     version: ros2
+    depth: 1
   ardupilot_gz:
     type: git
     url: https://github.com/Robotics-AI-Projects/ardupilot_gz.git
     version: tvbs-sim
+    depth: 1
   ardupilot_sitl_models:
     type: git
     url: https://github.com/ArduPilot/SITL_Models.git
     version: main
+    depth: 1
   micro_ros_agent:
     type: git
     url: https://github.com/micro-ROS/micro-ROS-Agent.git
@@ -27,3 +31,4 @@ repositories:
     type: git
     url: https://github.com/ros/sdformat_urdf.git
     version: humble
+    depth: 1
